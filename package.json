@@ -1,0 +1,21 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "node get and post api with its test cases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lokesh",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "jasmine": "^2.9.0",
+    "jasmine-node-karma": "^1.6.1",
+    "karma": "^2.0.0",
+    "karma-jasmine": "^1.1.1",
+    "mongodb": "^3.0.1",
+    "request": "^2.83.0"
+  }
+}
